@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ponzi</title>
+		<meta name="keywords" content="My cat's name is Ponzi" />
+		<meta charset= "UTF-8" />
+	
+	<head>
+	<body>
+		<h1> A crazy cat </h1>
+		<p> These are Ponzi's character traits </p>
+		<ul>
+			<li>Mischievous</li>
+ 		 	<li>Deranged</li>
+  			<li>Aggro</li>
+		</u>
+		<a> https://www.rover.com/uk/blog/grey-cat-breeds/ </a>
+
+	<body>
+<html>

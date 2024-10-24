@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<actor profile>
+	<actor>
+		<name type="text">Robert Downey, Jr.</name>
+		<dob type="date">April 4, 1965</dob>
+		<height type="text">5'9</height>
+	</actor>
+	<film>
+		<title type="text">The Avengers</title>
+		<year type="text">2012</year>
+		<role>Iron Man</role>
+	</film>
+	<film>
+		<title type="text">Iron Man 2</title>
+		<year type="text">2010</year>
+		<role type="text">Iron Man</role>
+	</film>
+	<film>
+		<title type="text">Iron Man</title>
+		<year type="text">2008</year>
+		<role type="text">Iron Man</role>
+	</film>
+	<film>
+		<title type="text">Sherlock: A Game of Shadows</title>
+		<year type="text">2011</year>
+		<role type="text">Sherlock Holmes</role>
+	</film>
+	<film>
+		<title type="text">Sherlock Holmes</title>
+		<year type="text">2009</year>
+		<role type="text">Sherlock Holmes</role>
+	</film>	
+</actorprofile>
+<actor profile>
+	<actor>
+		<name type="text">Mark Ruffalo</name>
+		<dob type="date">Novemeber 22, 1967</dob>
+		<height type="text">5'8</height>
+	</actor>
+	<film>
+		<title type="text">The Avengers</title>
+		<year type="text">2012</year>
+		<role>Hulk</role>
+	</film>	
+</actorprofile>
+<actor profile>
+	<actor>
+		<name type="text">Jeremy Renner</name>
+		<dob type="date">January 7, 1971</dob>
+		<height type="text">5'9</height>
+	</actor>
+	<film>
+		<title type="text">The Avengers</title>
+		<year type="text">2012</year>
+		<role>Hawkeye</role>
+	</film>
+	<film>
+		<title type="text">Mission Impossible: Ghost Protocol</title>
+		<year type="text">2011</year>
+		<role>Brandt</role>
+	</film>	
+</actorprofile>
